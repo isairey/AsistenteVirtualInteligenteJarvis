@@ -188,7 +188,7 @@ Gracias a su arquitectura modular, cualquier desarrollador puede crear nuevas ca
 # 📂 Estructura del proyecto
 
 ```bash
-JARVIS-on-Messenger/
+AsistenteVirtualInteligenteJarvis/
 │
 ├── modules/               # Funcionalidades del bot
 ├── modules/src/           # Código principal
@@ -220,7 +220,7 @@ JARVIS-on-Messenger/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/swapagarwal/JARVIS-on-Messenger.git
+git clone https://github.com/isairey/AsistenteVirtualInteligenteJarvis.git
 ```
 
 ---
@@ -228,7 +228,7 @@ git clone https://github.com/swapagarwal/JARVIS-on-Messenger.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd JARVIS-on-Messenger
+cd AsistenteVirtualInteligenteJarvis
 ```
 
 ---
@@ -371,7 +371,7 @@ git push origin feature/new-module
 
 <div align="center">
 
-## Swap Agarwal
+## Isai Reyes - FullStack Developer
 
 Creador de JARVIS on Messenger y promotor del aprendizaje open source mediante proyectos colaborativos de inteligencia conversacional.
 
@@ -399,6 +399,6 @@ Proyecto distribuido bajo licencia MIT para fines educativos, investigación y d
 
 <div align="center">
 
-### 🤖 JARVIS on Messenger — Inteligencia conversacional modular para Facebook Messenger 🚀
+### 🤖 AsistenteVirtualInteligenteJarvis — Inteligencia conversacional modular para Facebook Messenger 🚀
 
 </div>
